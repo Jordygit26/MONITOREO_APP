@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "hostname": "CPE-Sector-Norte-01",
+    "ip": "10.50.1.20",
+    "mac": "00:15:6D:C2:55:A1",
+    "ssid": "AP-Base-Norte",
+    "signalDbm": -55,
+    "latencyMs": 12,
+    "status": "online",
+    "uptime": 1209600,
+    "firmware": "v8.7.1",
+    "model": "LiteBeam 5AC Gen2",
+    "location": {
+      "sector": "Norte",
+      "tower": "Torre Alpha"
+    }
+  },
+  {
+    "id": "2",
+    "hostname": "CPE-Sector-Sur-14",
+    "ip": "10.50.2.45",
+    "mac": "00:15:6D:B1:88:C4",
+    "ssid": "AP-Base-Sur",
+    "signalDbm": -68,
+    "latencyMs": 35,
+    "status": "warning",
+    "uptime": 345600,
+    "firmware": "v8.7.0",
+    "model": "PowerBeam 5AC",
+    "location": {
+      "sector": "Sur",
+      "tower": "Torre Beta"
+    }
+  },
+  {
+    "id": "3",
+    "hostname": "CPE-Enlace-Este-03",
+    "ip": "10.50.3.11",
+    "mac": "00:15:6D:F3:22:90",
+    "ssid": "AP-Base-Este",
+    "signalDbm": -85,
+    "latencyMs": 120,
+    "status": "critical",
+    "uptime": 86400,
+    "firmware": "v8.7.1",
+    "model": "NanoStation 5AC",
+    "location": {
+      "sector": "Este",
+      "tower": "Torre Gamma"
+    }
+  },
+  {
+    "id": "4",
+    "hostname": "CPE-Sector-Oeste-08",
+    "ip": "10.50.4.55",
+    "mac": "00:15:6D:A9:44:E2",
+    "ssid": "AP-Base-Oeste",
+    "signalDbm": null,
+    "latencyMs": null,
+    "status": "offline",
+    "uptime": 0,
+    "firmware": "v8.7.1",
+    "model": "LiteBeam 5AC Gen2",
+    "location": {
+      "sector": "Oeste",
+      "tower": "Torre Delta"
+    }
+  },
+  {
+    "id": "5",
+    "hostname": "CPE-Sector-Centro-22",
+    "ip": "10.50.5.102",
+    "mac": "00:15:6D:E1:77:B5",
+    "ssid": "AP-Base-Centro",
+    "signalDbm": -48,
+    "latencyMs": 8,
+    "status": "online",
+    "uptime": 5184000,
+    "firmware": "v8.7.4",
+    "model": "airFiber 5XHD",
+    "location": {
+      "sector": "Centro",
+      "tower": "Torre Principal"
+    }
+  }
+]
